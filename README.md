@@ -1,4 +1,4 @@
-# Sorcererxw Tap
+# Homebrew Tap
 
 ## How do I install these formulae?
 
